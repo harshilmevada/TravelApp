@@ -1,0 +1,99 @@
+{
+  "tourist_places": [
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, Uttar Pradesh",
+      "description": "The iconic white marble mausoleum is a UNESCO World Heritage Site and one of the most famous landmarks in India."
+    },
+    {
+      "name": "Jaipur",
+      "location": "Rajasthan",
+      "description": "Known as the 'Pink City,' Jaipur is famous for its historic palaces, vibrant markets, and rich cultural heritage."
+    },
+    {
+      "name": "Kerala",
+      "location": "Various cities",
+      "description": "A picturesque state in South India, known for its backwaters, lush greenery, and serene beaches."
+    },
+    {
+      "name": "Goa",
+      "location": "Goa",
+      "description": "A popular beach destination with a vibrant nightlife, water sports, and a mix of Portuguese and Indian culture."
+    },
+    {
+      "name": "Varanasi",
+      "location": "Uttar Pradesh",
+      "description": "One of the oldest continually inhabited cities in the world, famous for its ghats along the Ganges River."
+    },
+    {
+      "name": "Himalayas",
+      "location": "Northern India",
+      "description": "A majestic mountain range offering trekking, adventure, and stunning natural beauty."
+    },
+    {
+      "name": "Mumbai",
+      "location": "Maharashtra",
+      "description": "India's financial capital, known for its bustling city life, historic landmarks, and Bollywood."
+    },
+    {
+      "name": "Delhi",
+      "location": "Delhi",
+      "description": "India's capital city, with a rich history, historic monuments, and a vibrant street food scene."
+    },
+    {
+      "name": "Rajasthan",
+      "location": "Various cities",
+      "description": "A state known for its royal palaces, desert landscapes, and colorful culture."
+    },
+    {
+      "name": "Kashmir",
+      "location": "Jammu and Kashmir",
+      "description": "Famous for its breathtaking landscapes, including the Dal Lake and scenic mountain ranges."
+    },
+    {
+      "name": "Mysore",
+      "location": "Karnataka",
+      "description": "Known for the opulent Mysore Palace and vibrant Dasara festival celebrations."
+    },
+    {
+      "name": "Agra Fort",
+      "location": "Agra, Uttar Pradesh",
+      "description": "A UNESCO World Heritage Site, known for its historical significance and stunning architecture."
+    },
+    {
+      "name": "Kolkata",
+      "location": "West Bengal",
+      "description": "A city with a rich cultural heritage, known for its arts, literature, and delicious cuisine."
+    },
+    {
+      "name": "Amritsar",
+      "location": "Punjab",
+      "description": "Home to the Golden Temple, a spiritual and cultural landmark for Sikhs."
+    },
+    {
+      "name": "Jaisalmer",
+      "location": "Rajasthan",
+      "description": "Famous for its golden sand dunes, camel safaris, and the Jaisalmer Fort."
+    },
+    {
+      "name": "Munnar",
+      "location": "Kerala",
+      "description": "A hill station known for its tea plantations, lush greenery, and cool climate."
+    },
+    {
+      "name": "Khajuraho",
+      "location": "Madhya Pradesh",
+      "description": "Famous for its intricately carved temples with stunning erotic art."
+    },
+    {
+      "name": "Gokarna",
+      "location": "Karnataka",
+      "description": "A peaceful beach town with beautiful beaches and a laid-back atmosphere."
+    },
+    {
+      "name": "Rishikesh",
+      "location": "Uttarakhand",
+      "description": "A spiritual and adventure destination on the banks of the Ganges River."
+    }
+  ]
+}
