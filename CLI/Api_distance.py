@@ -59,9 +59,9 @@ def getApiDistance(start_location,end_location,password):
     #   The APIKEY from MapQuest.
       code = 3824
       if password == code:
-          api_key = 'oygMCCjWja8kH2vCwKYCp49qm9r49Qow'
+          api_key = 'oygMCCjxja8kH2vCwqm9r49Qow'
       else:
-          api_key = 'oygMCCjWja8kH2vCwKYCq49qm9r49Qow'
+          api_key = 'oygMCCjxja8kH2vCwqm9r49Qow'
 
       print(f"Last Api Call Use {database.getData()} Time")
       # Define the URL for the MapQuest Directions API.
